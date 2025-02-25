@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently learning c#,html,css
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: nado em mar aberto
+- ⚡ Fun fact: nadar em mar aberto
 
